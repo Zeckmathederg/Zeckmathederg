@@ -8,5 +8,5 @@ abandonware.
 I make YouTube videos and chat on Discord. If you wanna message me, feel free to hit me up @zeckma on
 Discord.
 
-[![Zeckmathederg's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zeckmathederg&theme=city_lights&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
-![Zeckmathederg's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Zeckmathederg&theme=city_lights&hide_border=true)
+[![Zeckmathederg's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zeckmathederg&theme=ambient_gradient&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+![Zeckmathederg's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Zeckmathederg&theme=ambient_gradient&hide_border=true)
